@@ -28,8 +28,6 @@ API: [https://api.themoviedb.org/3 ](https://api.themoviedb.org/3)
 </h1>
 
 
- ## Instruções para testes
+  ## Observação
 
-Clonar o repositório e executar o comando `yarn` para instalar as bibliotecas.
-
-Depois execute o camando `npm start` para iniciar o React.
+ Somente o layout da página principal, não foram desenvolvidos as funcionalidades de rotas.
